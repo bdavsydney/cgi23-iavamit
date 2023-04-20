@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CGI 2023 - Image Analysis and Visualization in Advanced Medical Imaging Technology on 2023 IAVAMIT</title>
+    <link>https://bmitsydney.github.io/cgi23-iavamit/</link>
+    <description>Recent content in CGI 2023 - Image Analysis and Visualization in Advanced Medical Imaging Technology on 2023 IAVAMIT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bmitsydney.github.io/cgi23-iavamit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://bmitsydney.github.io/cgi23-iavamit/contact/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bmitsydney.github.io/cgi23-iavamit/contact/</guid>
+      <description>Workshop Session Contact Lei Bi
+E-mail: lei.bi@sjtu.edu.cn
+Institute of Translational Medicine, Shanghai Jiao Tong University, China
+School of Computer Science, the University of Sydney, Australia</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://bmitsydney.github.io/cgi23-iavamit/organizer/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bmitsydney.github.io/cgi23-iavamit/organizer/</guid>
+      <description>Workshop Session Organization Lei Bi
+E-mail: lei.bi@sjtu.edu.cn
+Institute of Translational Medicine, Shanghai Jiao Tong University, China
+School of Computer Science, the University of Sydney, Australia
+Younhyun Jung
+E-mail: younhyun.jung@gachon.ac.kr
+Department of Software, Gachon University, Republic of Korea
+Euijoon Ahn
+E-mail: euijoon.ahn@jcu.edu.au
+College of Science and Engineering, James Cook University, Australia</description>
+    </item>
+    
+  </channel>
+</rss>
